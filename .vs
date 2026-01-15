@@ -1,1 +1,7 @@
 
+{
+  "ExpandedNodes": [
+    ""
+  ],
+  "PreviewInSolutionExplorer": false
+}
